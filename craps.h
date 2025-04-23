@@ -1,0 +1,1 @@
+bool playCraps(int& money);

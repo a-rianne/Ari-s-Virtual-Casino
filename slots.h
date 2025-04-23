@@ -1,0 +1,1 @@
+bool playSlots(int& money);
